@@ -4,61 +4,71 @@
       "id": 1,
       "nama": "Dinda Fazryan",
       "nim": 2020070001,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     },
     {
       "id": 2,
       "nama": "Aditya Rofy",
       "nim": 2020070002,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     },
     {
       "id": 3,
       "nama": "Zidan Ramadan",
       "nim": 2020070003,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     },
     {
       "id": 4,
       "nama": "Mayasari",
       "nim": 2020070004,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     },
     {
       "id": 5,
       "nama": "Dewi Wijaya",
       "nim": 2020070005,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     },
     {
       "id": 6,
       "nama": "Sukma Eka",
       "nim": 2020070006,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     },
     {
       "id": 7,
       "nama": "Tita Siti",
       "nim": 2020070007,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     },
     {
       "id": 8,
       "nama": "Saepul Akbar",
       "nim": 2020070008,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     },
     {
       "id": 9,
       "nama": "Dina Okta",
       "nim": 2020070009,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     },
     {
       "id": 10,
       "nama": "Rina Nuer",
       "nim": 20200700010,
-      "jurusan": "Sistem Informasi"
+      "jurusan": "Sistem Informasi",
+      "status": 0
     }
   ]
 }
