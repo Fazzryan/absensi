@@ -3,70 +3,112 @@
     {
       "id": 1,
       "nama": "Dinda Fazryan",
-      "nim": 2020070001,
+      "nim": 7020200005,
       "jurusan": "Sistem Informasi",
       "status": 0
     },
     {
       "id": 2,
-      "nama": "Aditya Rofy",
-      "nim": 2020070002,
+      "nama": "Didit Adi Darmawan",
+      "nim": 7020200003,
       "jurusan": "Sistem Informasi",
       "status": 0
     },
     {
       "id": 3,
-      "nama": "Zidan Ramadan",
-      "nim": 2020070003,
+      "nama": "Rizki Firman Fauzi",
+      "nim": 7020200005,
       "jurusan": "Sistem Informasi",
       "status": 0
     },
     {
       "id": 4,
-      "nama": "Mayasari",
-      "nim": 2020070004,
+      "nama": "Aditya Rofy",
+      "nim": 7020200006,
       "jurusan": "Sistem Informasi",
       "status": 0
     },
     {
       "id": 5,
-      "nama": "Dewi Wijaya",
-      "nim": 2020070005,
+      "nama": "Tessa Yanuar Firmansyah",
+      "nim": 7020200007,
       "jurusan": "Sistem Informasi",
       "status": 0
     },
     {
       "id": 6,
-      "nama": "Sukma Eka",
-      "nim": 2020070006,
+      "nama": "Ilham Izulhaq",
+      "nim": 702020008,
       "jurusan": "Sistem Informasi",
       "status": 0
     },
     {
       "id": 7,
-      "nama": "Tita Siti",
-      "nim": 2020070007,
+      "nama": "Dani Abdurahman",
+      "nim": 7020200009,
       "jurusan": "Sistem Informasi",
       "status": 0
     },
     {
       "id": 8,
-      "nama": "Saepul Akbar",
-      "nim": 2020070008,
+      "nama": "Sidik Ali Mansur H",
+      "nim": 70202000010,
       "jurusan": "Sistem Informasi",
       "status": 0
     },
     {
       "id": 9,
-      "nama": "Dina Okta",
-      "nim": 2020070009,
+      "nama": "Feri Nurmasyah",
+      "nim": 70202000012,
       "jurusan": "Sistem Informasi",
       "status": 0
     },
     {
       "id": 10,
-      "nama": "Rina Nuer",
-      "nim": 20200700010,
+      "nama": "Muhamad Wildan Maulid nurhadi",
+      "nim": 70202000021,
+      "jurusan": "Sistem Informasi",
+      "status": 0
+    },
+    {
+      "id": 11,
+      "nama": "Nabila Shofy Nur Khairani",
+      "nim": 70202000024,
+      "jurusan": "Sistem Informasi",
+      "status": 0
+    },
+    {
+      "id": 12,
+      "nama": "Rizal Afriyandi",
+      "nim": 70202000025,
+      "jurusan": "Sistem Informasi",
+      "status": 0
+    },
+    {
+      "id": 13,
+      "nama": "Aderiyanto",
+      "nim": 70202000026,
+      "jurusan": "Sistem Informasi",
+      "status": 0
+    },
+    {
+      "id": 14,
+      "nama": "Kusdiana Muktirizky",
+      "nim": 70202000029,
+      "jurusan": "Sistem Informasi",
+      "status": 0
+    },
+    {
+      "id": 15,
+      "nama": "Alwi Putra Budiman",
+      "nim": 70202000030,
+      "jurusan": "Sistem Informasi",
+      "status": 0
+    },
+    {
+      "id": 16,
+      "nama": "Hopi Natalia",
+      "nim": 70202000031,
       "jurusan": "Sistem Informasi",
       "status": 0
     }
